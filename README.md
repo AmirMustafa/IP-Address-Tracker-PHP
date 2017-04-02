@@ -5,7 +5,7 @@
 [![Latest Stable Version](http://img.shields.io/badge/Latest%20Stable-5.4.4-blue.svg)](#)
 
 
-Many a time in their project in delivery pages, developers need to know the IP Address for tracking the location, country, city and so on.<br><br>
+Many a times in the project in delivery pages, developers need to know the IP Address for tracking the location, country, city and so on.<br><br>
 Through this IP code you will be able get visitor's IP Address, country, country code, city, Latitudes and longitudes. 
 
 ## Installation
