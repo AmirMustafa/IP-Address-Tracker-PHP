@@ -13,7 +13,7 @@ Through this IP code you will be able get visitor's IP Address, country, country
 1. Clone the Repository.<br>
 2. Fork this Repository for your future use<br>
 3. Read the Snippet or code (i.e. index.php) in localhost receive IP in one way and in server receive IP in other way.
-4. Just exeuting the index.php page will give the above informations
+4. Just executing the index.php page will give the above informations
 
 ## Snippets
 
