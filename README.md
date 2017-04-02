@@ -1,4 +1,4 @@
-# Get IP Address, Country, Country Code, City, Latitude and Longitude of the visitor in project for Delivery Pages 
+# Get IP Address, Country, Country Code, City, Postal Code, Latitude and Longitude of the visitor in project for Delivery Pages 
 
 [![Build Status](https://img.shields.io/travis/facebook/php-graph-sdk/5.4.svg)](#)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/facebook/facebook-php-sdk-v4/badges/quality-score.png?b=5.4)](#)
@@ -6,7 +6,7 @@
 
 
 Many a times in the project in delivery pages, developers need to know the IP Address for tracking the location, country, city and so on.<br><br>
-Through this IP code you will be able get visitor's IP Address, country, country code, city, Latitudes and longitudes. 
+Through this IP code you will be able get visitor's IP Address, country, country code, city, postal code, latitudes and longitudes. 
 
 ## Installation
 
